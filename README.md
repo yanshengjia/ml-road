@@ -15,13 +15,13 @@ Machine Learning resources and exercises.
 
 ### Books
 
-* \<机器学习\> 周志华
-* \<Deep Learning\> Ian Goodfellow, Yoshua Bengio, Aaron Courville
-* \<Machine Learning\> Tom Mitchell
-* \<Pattern Recogniton and Machine Learning\> Christopher Bishop
-* \<The Elements of Statistical Learning\> Trevor Hastie, Robert Tibshirani, Jerome Friedman
-* \<Data Mining: Practical Machine Learning Tools and Techniques\> Ian H. Witten, Eibe Frank
-* \<Artificial Intelligence: A Modern Approach\> Sturart  J. Russell, Peter Norvig
-* \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy
-* \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper
+* \<机器学习\> 周志华 [[Amazon]](https://www.amazon.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%91%A8%E5%BF%97%E5%8D%8E/dp/B01ARKEV1G/ref=sr_1_1?ie=UTF8&qid=1509470386&sr=8-1&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+* \<Deep Learning\> Ian Goodfellow, Yoshua Bengio, Aaron Courville [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Deep%20Learning.pdf)[[中文版]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+* \<Machine Learning\> Tom Mitchell [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Machine%20Learning.pdf)
+* \<Pattern Recogniton and Machine Learning\> Christopher Bishop [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Pattern%20Recognition%20and%20Machine%20Learning.pdf)[[中文版]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB.pdf)
+* \<The Elements of Statistical Learning\> Trevor Hastie, Robert Tibshirani, Jerome Friedman [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/The%20Elements%20of%20Statistical%20Learning%20(2nd%20Edition).pdf)
+* \<Data Mining: Practical Machine Learning Tools and Techniques\> Ian H. Witten, Eibe Frank [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(2nd%20Edition).pdf)
+* \<Artificial Intelligence: A Modern Approach\> Sturart  J. Russell, Peter Norvig [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+* \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Machine%20Learning%20-%20A%20Probabilistic%20Perspective.pdf)
+* \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing%20with%20Python.pdf)
 
