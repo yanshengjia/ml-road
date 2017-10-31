@@ -15,7 +15,7 @@ Machine Learning resources and exercises.
 
 ### Books
 
-* \<机器学习\> 周志华 [[Amazon]](https://www.amazon.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%91%A8%E5%BF%97%E5%8D%8E/dp/B01ARKEV1G/ref=sr_1_1?ie=UTF8&qid=1509470386&sr=8-1&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+* \<机器学习\> 周志华 [[Amazon]](https://www.amazon.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%91%A8%E5%BF%97%E5%8D%8E/dp/B01ARKEV1G/ref=sr_1_1?ie=UTF8&qid=1509470386&sr=8-1&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)[[JD]](https://item.jd.com/11867803.html)
 * \<Deep Learning\> Ian Goodfellow, Yoshua Bengio, Aaron Courville [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Deep%20Learning.pdf)[[中文版]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 * \<Machine Learning\> Tom Mitchell [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Machine%20Learning.pdf)
 * \<Pattern Recogniton and Machine Learning\> Christopher Bishop [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Pattern%20Recognition%20and%20Machine%20Learning.pdf)[[中文版]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB.pdf)
