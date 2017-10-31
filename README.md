@@ -23,4 +23,5 @@ Machine Learning resources and exercises.
 * \<Data Mining: Practical Machine Learning Tools and Techniques\> Ian H. Witten, Eibe Frank
 * \<Artificial Intelligence: A Modern Approach\> Sturart  J. Russell, Peter Norvig
 * \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy
+* \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper
 
