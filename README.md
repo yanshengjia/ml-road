@@ -20,4 +20,7 @@ Machine Learning resources and exercises.
 * \<Machine Learning\> Tom Mitchell
 * \<Pattern Recogniton and Machine Learning\> Christopher Bishop
 * \<The Elements of Statistical Learning\> Trevor Hastie, Robert Tibshirani, Jerome Friedman
+* \<Data Mining: Practical Machine Learning Tools and Techniques\> Ian H. Witten, Eibe Frank
+* \<Artificial Intelligence: A Modern Approach\> Sturart  J. Russell, Peter Norvig
+* \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy
 
