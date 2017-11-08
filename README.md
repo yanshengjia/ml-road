@@ -24,4 +24,5 @@ Machine Learning resources and exercises.
 * \<Artificial Intelligence: A Modern Approach\> Sturart  J. Russell, Peter Norvig [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
 * \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Machine%20Learning%20-%20A%20Probabilistic%20Perspective.pdf)
 * \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing%20with%20Python.pdf)
+* \<Getting Started with Tensorflow\> Giancarlo Zaccone [PDF]
 
