@@ -7,11 +7,14 @@ Machine Learning resources and exercises.
 
 ### Courses
 
-* \<Machine Learning (Coursera)\> Andrew Ng [[Bilibili]](https://www.bilibili.com/video/av9912938/index_2.html#page=1)[[Youtube]](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+* \<Machine Learning (Coursera)\> Andrew Ng [[Coursera]](https://www.coursera.org/learn/machine-learning/)[[Bilibili]](https://www.bilibili.com/video/av9912938/index_2.html#page=1)[[Youtube]](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 * \<Machine Learning Foundations\> Hsuan-Tien Lin [[Bilibili]](https://www.bilibili.com/video/av12463015/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * \<Machine Learning Techniques\> Hsuan-Tien Lin [[Bilibili]](https://www.bilibili.com/video/av12469267/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 * \<Machine Learning (Stanford)\> Andrew Ng [[Netease]](http://open.163.com/special/opencourse/machinelearning.html)[[Youtube]](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 * \<Deep Learning\> deeplearning.ai [[Netease]](https://163.lu/nPtn42)[[Coursera]](https://www.coursera.org/specializations/deep-learning)
+* \<CS231n: Convolutional Neural Networks for Visual Recognition\> Stanford [[Link]](http://cs231n.stanford.edu/)
+* \<CS224n: Natural Language Processing with Deep Learning\> Stanford [[Link]](http://web.stanford.edu/class/cs224n/)
+* \<CS224d: Deep Learning for Natural Language Processing\> Stanford [[Link]](http://cs224d.stanford.edu/index.html)
 
 ### Books
 
@@ -25,5 +28,6 @@ Machine Learning resources and exercises.
 * \<Machine Learning: A Probabilistic Perspective\> Kevin P. Murphy [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Machine%20Learning%20-%20A%20Probabilistic%20Perspective.pdf)
 * \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing%20with%20Python.pdf)
 * \<Getting Started with Tensorflow\> Giancarlo Zaccone [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Getting%20Started%20with%20Tensorflow.pdf)
+* \<Hands-On Machine Learning with Scikit-Learn and TensorFlow\> Aurélien Géron [PDF]
 
 
