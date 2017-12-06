@@ -18,9 +18,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from sklearn import metrics
 from math import sqrt
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0" 
-print tf.__version__ 
+
 # flags
 tf.flags.DEFINE_float("epsilon", 0.1, "Epsilon value for Adam Optimizer.")
 tf.flags.DEFINE_float("l2_lambda", 0.3, "Lambda for l2 loss.")
@@ -34,8 +32,8 @@ tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
 tf.flags.DEFINE_integer("epochs", 150, "Number of epochs to train for.")
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
-tf.flags.DEFINE_string("train_data_path", 'data/build0910_test.csv', "Path to the training dataset")
-tf.flags.DEFINE_string("test_data_path", 'data/build0910_test.csv', "Path to the testing dataset")
+tf.flags.DEFINE_string("train_data_path", 'data/0910_b_train.csv', "Path to the training dataset")
+tf.flags.DEFINE_string("test_data_path", 'data/0910_b_test.csv', "Path to the testing dataset")
 
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
@@ -67,7 +65,7 @@ class StudentModel(object):
         self.hidden_size = size = FLAGS.hidden_size
         self.num_steps = num_steps = config.num_steps
         input_size = num_skills*2
-        print "batch size ",batch_size,"num_steps",num_steps
+
         inputs = self._input_data = tf.placeholder(tf.int32, [batch_size, num_steps])
         self._target_id = target_id = tf.placeholder(tf.int32, [None])
         self._target_correctness = target_correctness = tf.placeholder(tf.float32, [None])
@@ -76,20 +74,20 @@ class StudentModel(object):
         hidden_layers = []
         for i in range(FLAGS.hidden_layer_num):
             final_hidden_size = size/(i+1)
-            hidden1 = tf.contrib.rnn.LSTMCell(final_hidden_size, state_is_tuple=True)
+            hidden1 = tf.nn.rnn_cell.LSTMCell(final_hidden_size, state_is_tuple=True)
             if is_training and config.keep_prob < 1:
-                hidden1 = tf.contrib.rnn.DropoutWrapper(hidden1, output_keep_prob=FLAGS.keep_prob)
+                hidden1 = tf.nn.rnn_cell.DropoutWrapper(hidden1, output_keep_prob=FLAGS.keep_prob)
             hidden_layers.append(hidden1)
 
-        cell = tf.contrib.rnn.MultiRNNCell(hidden_layers, state_is_tuple=True)
+        cell = tf.nn.rnn_cell.MultiRNNCell(hidden_layers, state_is_tuple=True)
 
         input_data = tf.reshape(self._input_data, [-1])
         #one-hot encoding
         with tf.device("/cpu:0"):
             labels = tf.expand_dims(input_data, 1)
             indices = tf.expand_dims(tf.range(0, batch_size*num_steps, 1), 1)
-            concated = tf.concat([indices, labels], axis = 1)
-            inputs = tf.sparse_to_dense(concated, tf.stack([batch_size*num_steps, input_size]), 1.0, 0.0)
+            concated = tf.concat(1, [indices, labels])
+            inputs = tf.sparse_to_dense(concated, tf.pack([batch_size*num_steps, input_size]), 1.0, 0.0)
             inputs.set_shape([batch_size*num_steps, input_size])
 
         # [batch_size, num_steps, input_size]
@@ -99,11 +97,11 @@ class StudentModel(object):
         x = tf.reshape(x, [-1, input_size])
         # Split to get a list of 'n_steps'
         # tensors of shape (doc_num, n_input)
-        x = tf.split(x, num_steps, 0)
+        x = tf.split(0, num_steps, x)
         #inputs = [tf.squeeze(input_, [1]) for input_ in tf.split(1, num_steps, inputs)]
         #outputs, state = tf.nn.rnn(hidden1, x, dtype=tf.float32)
-        outputs, state = tf.contrib.rnn.static_rnn(cell, x, dtype=tf.float32)
-        output = tf.reshape(tf.concat(outputs, 1), [-1, final_hidden_size])
+        outputs, state = tf.nn.rnn(cell, x, dtype=tf.float32)
+        output = tf.reshape(tf.concat(1, outputs), [-1, final_hidden_size])
         # calculate the logits from last hidden layer to output layer
         sigmoid_w = tf.get_variable("sigmoid_w", [final_hidden_size, num_skills])
         sigmoid_b = tf.get_variable("sigmoid_b", [num_skills])
@@ -117,7 +115,7 @@ class StudentModel(object):
         self._pred = self._pred_values = pred_values = tf.sigmoid(selected_logits)
 
         # loss function
-        loss = tf.reduce_sum(tf.nn.sigmoid_cross_entropy_with_logits(logits = selected_logits, labels = target_correctness))
+        loss = tf.reduce_sum(tf.nn.sigmoid_cross_entropy_with_logits(selected_logits, target_correctness))
 
         #self._cost = cost = tf.reduce_mean(loss)
         self._cost = cost = loss
@@ -251,7 +249,6 @@ def read_data_from_csv_file(fileName):
     random.shuffle(tuple_rows)
     print "The number of students is ", len(tuple_rows)
     print "Finish reading data"
-    print 'max_num_problems',max_num_problems," max_skill_num ",max_skill_num
     return tuple_rows, max_num_problems, max_skill_num+1
 
 def main(unused_args):
