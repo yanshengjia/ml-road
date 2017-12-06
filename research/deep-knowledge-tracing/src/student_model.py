@@ -8,6 +8,7 @@
 # Here is an useful practical guide for training dropout networks
 # https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 # You can find the practical guide on Appendix A
+
 import numpy as np
 import tensorflow as tf
 import time
@@ -32,8 +33,8 @@ tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
 tf.flags.DEFINE_integer("epochs", 150, "Number of epochs to train for.")
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
-tf.flags.DEFINE_string("train_data_path", 'data/0910_b_train.csv', "Path to the training dataset")
-tf.flags.DEFINE_string("test_data_path", 'data/0910_b_test.csv', "Path to the testing dataset")
+tf.flags.DEFINE_string("train_data_path", '../data/0910_b_train.csv', "Path to the training dataset")
+tf.flags.DEFINE_string("test_data_path", '../data/0910_b_test.csv', "Path to the testing dataset")
 
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
