@@ -1,8 +1,8 @@
 import argparse
 import time
 import sys
-from TensorFlowDKT import *
-from data_process import *
+from tf_dkt import *
+from preprocess import *
 from sklearn.metrics import roc_auc_score, precision_recall_fscore_support, accuracy_score
 
 
@@ -36,8 +36,7 @@ def run(args):
         while not train_generator.end:
             input_x, target_id, target_correctness, seqs_len, max_len = train_generator.next_batch()
             overall_loss += model.step(sess, input_x, target_id, target_correctness, seqs_len, is_train=True)
-            print "\r idx:{0}, overall_loss:{1}, time spent:{2}s".format(train_generator.pos, overall_loss,
-                                                                         time.time() - st),
+            print "\r idx:{0}, overall_loss:{1}, time spent:{2}s".format(train_generator.pos, overall_loss, time.time() - st),
             sys.stdout.flush()
 
         # test
