@@ -1,9 +1,9 @@
 # Machine Learning Road
-Machine Learning resources and exercises.
+Machine Learning Resources, Exercises and Research.
 
 
 
-## Resources List
+## Resource List
 
 ### Courses
 
