@@ -28,5 +28,6 @@ Machine Learning resources and exercises.
 * \<Natural Language Processing with Python\> Stven Bird, Ewan Klein, Edward Loper [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing%20with%20Python.pdf)
 * \<Getting Started with Tensorflow\> Giancarlo Zaccone [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Getting%20Started%20with%20Tensorflow.pdf)
 * \<Hands-On Machine Learning with Scikit-Learn and TensorFlow\> Aurélien Géron [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)[[Github]](https://github.com/ageron/handson-ml)
-* \<Deep Learning with Python\> François Chollet [PDF]()[[Github]](https://github.com/fchollet/deep-learning-with-python-notebooks)
+* \<Deep Learning with Python\> François Chollet [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Deep%20Learning%20with%20Python.pdf)[[Github]](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 
