@@ -33,4 +33,4 @@ Machine Learning Resources, Exercises and Research.
 | Getting Started with Tensorflow          | Giancarlo Zaccone                        | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Getting%20Started%20with%20Tensorflow.pdf) |
 | Hands-On Machine Learning with Scikit-Learn and TensorFlow | Aurélien Géron                           | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)[[Github]](https://github.com/ageron/handson-ml) |
 | Deep Learning with Python                | François Chollet                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Deep%20Learning%20with%20Python.pdf)[[Github]](https://github.com/fchollet/deep-learning-with-python-notebooks) |
-
+| Probabilistic Graphical Models: Principles and Techniques | Daphne Koller, Nir Friedman              | [PDF]                                    |
