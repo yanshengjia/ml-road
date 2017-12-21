@@ -7,15 +7,16 @@ Machine Learning Resources, Exercises and Research.
 
 ### Courses
 
-| Course Name                              | Author          | Link                                     |
-| :--------------------------------------- | :-------------- | :--------------------------------------- |
-| Machine Learning (Coursera)              | Andrew Ng       | [[Coursera]](https://www.coursera.org/learn/machine-learning/)[[Bilibili]](https://www.bilibili.com/video/av9912938/index_2.html#page=1)[[Youtube]](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW) |
-| Machine Learning Foundations             | Hsuan-Tien Lin  | [[Bilibili]](https://www.bilibili.com/video/av12463015/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) |
-| Machine Learning Techniques              | Hsuan-Tien Lin  | [[Bilibili]](https://www.bilibili.com/video/av12469267/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) |
-| Machine Learning (Stanford)              | Andrew Ng       | [[Netease]](http://open.163.com/special/opencourse/machinelearning.html)[[Youtube]](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) |
-| Deep Learning                            | deeplearning.ai | [[Netease]](https://163.lu/nPtn42)[[Coursera]](https://www.coursera.org/specializations/deep-learning) |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford        | [[Homepage]](http://cs231n.stanford.edu/)[[Youtube]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-| CS224n: Natural Language Processing with Deep Learning | Stanford        | [[Homepage]](http://web.stanford.edu/class/cs224n/)[[Youtube]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
+| Course Name                              | Institution                | Lecturer                                 | Link                                     |
+| :--------------------------------------- | :------------------------- | :--------------------------------------- | ---------------------------------------- |
+| Machine Learning                         | Coursera                   | [Andrew Ng](http://www.andrewng.org/)    | [[Coursera]](https://www.coursera.org/learn/machine-learning/)[[Bilibili]](https://www.bilibili.com/video/av9912938/index_2.html#page=1)[[Youtube]](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW) |
+| Machine Learning Foundations             | National Taiwan University | [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/) | [[Bilibili]](https://www.bilibili.com/video/av12463015/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) |
+| Machine Learning Techniques              | National Taiwan University | Hsuan-Tien Lin                           | [[Bilibili]](https://www.bilibili.com/video/av12469267/)[[Youtube]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) |
+| Machine Learning                         | Stanford                   | Andrew Ng                                | [[Netease]](http://open.163.com/special/opencourse/machinelearning.html)[[Youtube]](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) |
+| Deep Learning                            | deeplearning.ai            | Andrew Ng                                | [[Netease]](https://163.lu/nPtn42)[[Coursera]](https://www.coursera.org/specializations/deep-learning) |
+| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford                   | [Fei-Fei Li](http://vision.stanford.edu/feifeili/) | [[Homepage]](http://cs231n.stanford.edu/)[[Youtube]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| CS224n: Natural Language Processing with Deep Learning | Stanford                   | [Christopher Manning](https://nlp.stanford.edu/manning/) | [[Homepage]](http://web.stanford.edu/class/cs224n/)[[Youtube]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
+| Deep Learning for Natural Language Processing | Oxford University          | [Phil Blunsom](http://www.cs.ox.ac.uk/people/Phil.Blunsom) | [[Honepage]](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)[[Slides]](https://github.com/oxford-cs-deepnlp-2017/lectures) |
 
 ### Books
 
