@@ -18,6 +18,7 @@ Machine Learning Resources, Exercises and Research.
 | CS224n: Natural Language Processing with Deep Learning | Stanford                   | [Christopher Manning](https://nlp.stanford.edu/manning/) | [[Homepage]](http://web.stanford.edu/class/cs224n/)[[Youtube]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | Deep Learning, NLP               |
 | Deep Learning for Natural Language Processing | Oxford University          | [Phil Blunsom](http://www.cs.ox.ac.uk/people/Phil.Blunsom) | [[Homepage]](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)[[Slides]](https://github.com/oxford-cs-deepnlp-2017/lectures) | Deep Learning,  NLP              |
 | Applied Deep Learning  / Machine Learning and Having It Deep and Structured | National Taiwan University | [Yun-Nung  Chen](http://vivianchen.idv.tw/), [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) | [[Homepage]](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)[[Youtube]](https://www.youtube.com/watch?v=hwUca8gsXdM&feature=youtu.be) | Machine Learning,  Deep Learning |
+| TensorFlow for Deep Learning Research    | Stanford                   | Chip Huyen                               | [[Homepage]](https://web.stanford.edu/class/cs20si/)[[Github]](https://github.com/chiphuyen/stanford-tensorflow-tutorials) | Deep Learning                    |
 
 ### Books
 
