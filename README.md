@@ -1,5 +1,5 @@
 # Machine Learning Road
-Machine Learning Resources, Exercises and Research.
+Machine Learning Resources, Practice and Research.
 
 ***
 
