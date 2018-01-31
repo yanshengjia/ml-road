@@ -20,6 +20,7 @@ Machine Learning Resources, Practice and Research.
 | Applied Deep Learning  / Machine Learning and Having It Deep and Structured | National Taiwan University | [Yun-Nung  Chen](http://vivianchen.idv.tw/), [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) | [[Homepage]](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)[[Youtube]](https://www.youtube.com/watch?v=hwUca8gsXdM&feature=youtu.be) | Machine Learning,  Deep Learning      |
 | TensorFlow for Deep Learning Research    | Stanford                   | Chip Huyen                               | [[Homepage]](https://web.stanford.edu/class/cs20si/)[[Github]](https://github.com/chiphuyen/stanford-tensorflow-tutorials) | Deep Learning                         |
 | CS 294: Deep Reinforcement Learning      | UC Berkeley                | Sergey Levine                            | [[Homepage]](http://rll.berkeley.edu/deeprlcourse/)[[Youtube]](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Deep Learning, Reinforcement Learning |
+| Neural Networks for NLP                  | CMU                        | [Graham Neubig](http://phontron.com/)    | [[Homepage]](http://www.phontron.com/class/nn4nlp2018/assignments.html) | NLP, Deep Learning                    |
 
 ### Books
 
