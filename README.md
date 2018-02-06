@@ -21,6 +21,7 @@ Machine Learning Resources, Practice and Research.
 | TensorFlow for Deep Learning Research    | Stanford                   | Chip Huyen                               | [[Homepage]](https://web.stanford.edu/class/cs20si/)[[Github]](https://github.com/chiphuyen/stanford-tensorflow-tutorials) | Deep Learning                         |
 | CS 294: Deep Reinforcement Learning      | UC Berkeley                | Sergey Levine                            | [[Homepage]](http://rll.berkeley.edu/deeprlcourse/)[[Youtube]](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Deep Learning, Reinforcement Learning |
 | Neural Networks for NLP                  | CMU                        | [Graham Neubig](http://phontron.com/)    | [[Homepage]](http://www.phontron.com/class/nn4nlp2018/assignments.html) | NLP, Deep Learning                    |
+| Mathematics of Deep Learning             | NYU                        | Joan Bruna                               | [[Github]](https://github.com/joanbruna/MathsDL-spring18) | Deep Learning                         |
 
 ### Books
 
