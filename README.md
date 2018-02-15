@@ -22,6 +22,8 @@ Machine Learning Resources, Practice and Research.
 | CS 294: Deep Reinforcement Learning      | UC Berkeley                | Sergey Levine                            | [[Homepage]](http://rll.berkeley.edu/deeprlcourse/)[[Youtube]](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Deep Learning, Reinforcement Learning |
 | Neural Networks for NLP                  | CMU                        | [Graham Neubig](http://phontron.com/)    | [[Homepage]](http://www.phontron.com/class/nn4nlp2018/assignments.html) | NLP, Deep Learning                    |
 | Mathematics of Deep Learning             | NYU                        | Joan Bruna                               | [[Github]](https://github.com/joanbruna/MathsDL-spring18) | Deep Learning                         |
+| Introduction to NLP                      | Stanford                   | [Dan Jurafsky](https://web.stanford.edu/~jurafsky/), [Chris Manning](https://nlp.stanford.edu/manning/) | [[Youtube]](https://www.youtube.com/playlist?list=PL6397E4B26D00A269) | NLP                                   |
+| Text Mining and Analytics                | UIUC                       | [ChengXiang Zhai](https://zh.coursera.org/instructor/chengxiangzhai) | [[Coursera]](https://zh.coursera.org/learn/text-mining) | NLP                                   |
 
 ### Books
 
