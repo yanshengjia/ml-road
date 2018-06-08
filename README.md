@@ -25,6 +25,7 @@ Machine Learning Resources, Practice and Research.
 | Introduction to NLP                                          | Stanford                   | [Dan Jurafsky](https://web.stanford.edu/~jurafsky/), [Chris Manning](https://nlp.stanford.edu/manning/) | [[Youtube]](https://www.youtube.com/playlist?list=PL6397E4B26D00A269) | NLP                                   |
 | Text Mining and Analytics                                    | UIUC                       | [ChengXiang Zhai](https://zh.coursera.org/instructor/chengxiangzhai) | [[Coursera]](https://zh.coursera.org/learn/text-mining)      | NLP                                   |
 | Machine Learning Crash Course with TensorFlow APIs           | Google                     | Google                                                       | [[Homepage]](https://developers.google.com/machine-learning/crash-course/) | Machine Learning, Tensorflow          |
+| CS230: Deep Learning | Stanford        | [Andrew Ng](http://www.andrewng.org/), [Kian Katanforoosh](https://www.linkedin.com/in/kiankatan/) | [[Homepage]](http://cs230.stanford.edu/) | Deep Learning |
 
 ### Books
 
