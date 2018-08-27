@@ -48,4 +48,4 @@ Machine Learning Resources, Practice and Research.
 | Neural Network Methods for Natural Language Processing       | Yoav Goldberg                                                | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Neural%20Network%20Methods%20for%20Natural%20Language%20Processing.pdf) | NLP                           |
 | 统计学习方法                                                 | 李航                                                         | [[Amazon]](https://www.amazon.cn/dp/B007TSFMTA/ref=sr_1_1?ie=UTF8&qid=1524798458&sr=8-1&keywords=%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95) | Machine Learning              |
 | Natural Language Processing                      | Jacob Eisenstein                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing.pdf) | NLP            |
-
+| 动手学深度学习               | GLUON                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/gluon_tutorials_zh.pdf) | Deep Learning |
