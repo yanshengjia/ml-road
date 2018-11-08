@@ -3,9 +3,7 @@ Machine Learning Resources, Practice and Research.
 
 ***
 
-## Resource List
-
-### Courses
+## Courses
 
 | Course Name                                                  | Institution                | Lecturer                                                     | Link                                                         | Category                              |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- |
@@ -27,7 +25,7 @@ Machine Learning Resources, Practice and Research.
 | Machine Learning Crash Course with TensorFlow APIs           | Google                     | Google                                                       | [[Homepage]](https://developers.google.com/machine-learning/crash-course/) | Machine Learning, Tensorflow          |
 | CS230: Deep Learning | Stanford        | [Andrew Ng](http://www.andrewng.org/), [Kian Katanforoosh](https://www.linkedin.com/in/kiankatan/) | [[Homepage]](http://cs230.stanford.edu/) | Deep Learning |
 
-### Books
+## Books
 
 | Book Name                                                    | Author                                                       | Link                                                         | Category                      |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------- |
@@ -51,3 +49,9 @@ Machine Learning Resources, Practice and Research.
 | 动手学深度学习               | GLUON                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/gluon_tutorials_zh.pdf) | Deep Learning |
 | Feature Engineering for Machine Learning | Alice Zheng, Amanda Casari             | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)[[译]](https://github.com/apachecn/feature-engineering-for-ml-zh) | Machine Learning, Feature Engineering |
 | Machine Learning Yearning | Andrew Ng | [[译]](https://github.com/yanshengjia/ml-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E7%A7%98%E7%B1%8D.pdf)[[在线阅读]](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/) | Machine Learning |
+
+## Papers
+
+### NLP
+
+* Tixier A J P. Notes on Deep Learning for NLP[J]. arXiv preprint arXiv:1808.09772, 2018. [[Link]](https://arxiv.org/pdf/1808.09772.pdf)
