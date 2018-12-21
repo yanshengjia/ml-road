@@ -24,6 +24,7 @@ Machine Learning Resources, Practice and Research.
 | Text Mining and Analytics                                    | UIUC                       | [ChengXiang Zhai](https://zh.coursera.org/instructor/chengxiangzhai) | [[Coursera]](https://zh.coursera.org/learn/text-mining)      | NLP                                   |
 | Machine Learning Crash Course with TensorFlow APIs           | Google                     | Google                                                       | [[Homepage]](https://developers.google.com/machine-learning/crash-course/) | Machine Learning, Tensorflow          |
 | CS230: Deep Learning | Stanford        | [Andrew Ng](http://www.andrewng.org/), [Kian Katanforoosh](https://www.linkedin.com/in/kiankatan/) | [[Homepage]](http://cs230.stanford.edu/) | Deep Learning |
+| Intro to Deep Learning with PyTorch | Facebook AI | Facebook AI | [[Udacity]](https://in.udacity.com/course/deep-learning-pytorch--ud188) | Deep Learning, PyTorch |
 
 ## Books
 
