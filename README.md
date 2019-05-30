@@ -25,7 +25,8 @@ Machine Learning Resources, Practice and Research.
 | Machine Learning Crash Course with TensorFlow APIs           | Google                     | Google                                                       | [[Homepage]](https://developers.google.com/machine-learning/crash-course/) | Machine Learning, Tensorflow          |
 | CS230: Deep Learning | Stanford        | [Andrew Ng](http://www.andrewng.org/), [Kian Katanforoosh](https://www.linkedin.com/in/kiankatan/) | [[Homepage]](http://cs230.stanford.edu/) | Deep Learning |
 | Intro to Deep Learning with PyTorch | Facebook AI | Facebook AI | [[Udacity]](https://in.udacity.com/course/deep-learning-pytorch--ud188) | Deep Learning, PyTorch |
-| Introduction to Deep Learning | UC Berkeley | [Alex Smola](https://alex.smola.org/),  [Mu Li](https://github.com/mli) | [[Youtube]](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)[GitHub](https://github.com/d2l-ai/berkeley-stat-157) | Deep Learning |
+| Introduction to Deep Learning | UC Berkeley | [Alex Smola](https://alex.smola.org/),  [Mu Li](https://github.com/mli) | [[Youtube]](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)[[GitHub]](https://github.com/d2l-ai/berkeley-stat-157) | Deep Learning |
+| Foundations of Machine Learning | NYU | [Mehryar Mohri](https://cs.nyu.edu/~mohri/) | [[Homepage]](https://cs.nyu.edu/~mohri/ml18/) | Machine Learning |
 
 ## Books
 
