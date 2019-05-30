@@ -51,6 +51,7 @@ Machine Learning Resources, Practice and Research.
 | 动手学深度学习               | GLUON                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/gluon_tutorials_zh.pdf) | Deep Learning |
 | Feature Engineering for Machine Learning | Alice Zheng, Amanda Casari             | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)[[译]](https://github.com/apachecn/feature-engineering-for-ml-zh) | Machine Learning, Feature Engineering |
 | Machine Learning Yearning | Andrew Ng | [[译]](https://github.com/yanshengjia/ml-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E7%A7%98%E7%B1%8D.pdf)[[在线阅读]](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/) | Machine Learning |
+| Foundations of Machine Learning | Mehryar Mohri | [[PDF]](https://github.com/yanshengjia/ml-road/blob/master/resources/Foundations%20of%20Machine%20Learning%20(2nd%20Edition).pdf)[[HomePage]](https://cs.nyu.edu/~mohri/mlbook/) | Machine Learning |
 
 ## Papers
 
