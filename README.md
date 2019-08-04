@@ -28,6 +28,7 @@ Machine Learning Resources, Practice and Research.
 | Introduction to Deep Learning | UC Berkeley | [Alex Smola](https://alex.smola.org/),  [Mu Li](https://github.com/mli) | [[Youtube]](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)[[GitHub]](https://github.com/d2l-ai/berkeley-stat-157) | Deep Learning |
 | Foundations of Machine Learning | NYU | [Mehryar Mohri](https://cs.nyu.edu/~mohri/) | [[Homepage]](https://cs.nyu.edu/~mohri/ml18/) | Machine Learning |
 | DS1003 Machine Learning | NYU | Julia Kempe, David Rosenberg | [[Homepage]](https://davidrosenberg.github.io/ml2019/#home)[[Slides]](https://davidrosenberg.github.io/ml2019/#lectures) [[Youtube]](https://www.youtube.com/watch?v=U6M0m9c9_Js&feature=youtu.be)[[Assignments]](https://davidrosenberg.github.io/ml2019/#assignments) | Machine Learning |
+| TensorFlow in Practice | Coursera | Laurence Moroney | [[Coursera]](https://www.coursera.org/specializations/tensorflow-in-practice) | TensorFlow |
 
 ## Books
 
