@@ -5,7 +5,7 @@ Machine Learning Resources, Practice and Research.
 
 The resources in this repo are only for educational purpose. Do not use resources in this repo for any form of commercial purpose.
 
-If the author of ebook found your intelligence proprietary violated because of the content in this repo, please contact me and I will remove relevant stuff ASAP.
+If the author of ebook found your intelligence proprietary violated because of contents in this repo, please contact me and I will remove relevant stuff ASAP.
 
 ***
 
@@ -57,7 +57,7 @@ If the author of ebook found your intelligence proprietary violated because of t
 | Neural Network Methods for Natural Language Processing       | Yoav Goldberg                                                | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Neural%20Network%20Methods%20for%20Natural%20Language%20Processing.pdf) | NLP                           |
 | 统计学习方法                                                 | 李航                                                         | [[Amazon]](https://www.amazon.cn/dp/B007TSFMTA/ref=sr_1_1?ie=UTF8&qid=1524798458&sr=8-1&keywords=%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95) | Machine Learning              |
 | Natural Language Processing                      | Jacob Eisenstein                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Natural%20Language%20Processing.pdf) | NLP            |
-| 动手学深度学习               | GLUON                                         | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/gluon_tutorials_zh.pdf) | Deep Learning |
+| Dive into Deep Learning 动手学深度学习 | Aston Zhang, Mu Li, Zachary C.Lipton, Alexander J.Smola | [[中文版]](https://github.com/yanshengjia/ml-road/blob/master/resources/d2l-zh.pdf) [[PDF]](https://github.com/yanshengjia/ml-road/blob/master/resources/d2l-en.pdf) [[Website]](http://zh.d2l.ai/) [[GitHub]](https://github.com/d2l-ai/d2l-zh) [[Jupyter]](https://zh.d2l.ai/d2l-zh.zip) | Deep Learning |
 | Feature Engineering for Machine Learning | Alice Zheng, Amanda Casari             | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)[[译]](https://github.com/apachecn/feature-engineering-for-ml-zh) | Machine Learning, Feature Engineering |
 | Machine Learning Yearning | Andrew Ng | [[译]](https://github.com/yanshengjia/ml-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E7%A7%98%E7%B1%8D.pdf)[[在线阅读]](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/) | Machine Learning |
 | Foundations of Machine Learning | Mehryar Mohri | [[PDF]](https://github.com/yanshengjia/ml-road/blob/master/resources/Foundations%20of%20Machine%20Learning%20(2nd%20Edition).pdf)[[HomePage]](https://cs.nyu.edu/~mohri/mlbook/) | Machine Learning |
