@@ -35,7 +35,7 @@ If the author of ebook found your intelligence proprietary violated because of c
 | Foundations of Machine Learning | NYU | [Mehryar Mohri](https://cs.nyu.edu/~mohri/) | [[Homepage]](https://cs.nyu.edu/~mohri/ml18/) | Machine Learning |
 | DS1003 Machine Learning | NYU | Julia Kempe, David Rosenberg | [[Homepage]](https://davidrosenberg.github.io/ml2019/#home)[[Slides]](https://davidrosenberg.github.io/ml2019/#lectures) [[Youtube]](https://www.youtube.com/watch?v=U6M0m9c9_Js&feature=youtu.be)[[Assignments]](https://davidrosenberg.github.io/ml2019/#assignments) | Machine Learning |
 | TensorFlow in Practice | Coursera | Laurence Moroney | [[Coursera]](https://www.coursera.org/specializations/tensorflow-in-practice) | TensorFlow |
-| DS-GA 1008 Deep Learning | NYU | [Yann LeCun](http://yann.lecun.com/), [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [[Homepage]](https://atcold.github.io/pytorch-Deep-Learning/) [[[YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)]] | Deep Learning, PyTorch |
+| DS-GA 1008 Deep Learning | NYU | [Yann LeCun](http://yann.lecun.com/), [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [[Homepage]](https://atcold.github.io/pytorch-Deep-Learning/) [[[YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)]] [[[Bilibili](https://www.bilibili.com/video/BV197411M7gG/?spm_id_from=333.788.videocard.1)]] | Deep Learning, PyTorch |
 
 ## Books
 
