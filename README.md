@@ -37,6 +37,7 @@ If the author of ebook found your intelligence proprietary violated because of c
 | TensorFlow in Practice | Coursera | Laurence Moroney | [[Coursera]](https://www.coursera.org/specializations/tensorflow-in-practice) | TensorFlow |
 | DS-GA 1008 Deep Learning | NYU | [Yann LeCun](http://yann.lecun.com/), [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [[Homepage]](https://atcold.github.io/pytorch-Deep-Learning/) [[YouTube]](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)[[Bilibili]](https://www.bilibili.com/video/BV197411M7gG/?spm_id_from=333.788.videocard.1) | Deep Learning, PyTorch |
 | Deep Learning for Human Language Processing | National Taiwan University | [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) | [[Homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html) [[YouTube]](https://www.youtube.com/watch?v=nER51ZyJaCQ&list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG) | Deep Learning, NLP |
+| Machine Learning Career | Scaler | Scaler | [Machine Learning Career: A Comprehensive Guide](https://www.scaler.com/blog/machine-learning-career/) | Machine Learning |
 
 ## Books
 
