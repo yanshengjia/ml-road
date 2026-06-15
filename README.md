@@ -3,6 +3,14 @@ Machine Learning and Agentic AI Resources, Practice and Research.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yanshengjia/ml-road&type=Date)](https://star-history.com/#yanshengjia/ml-road&Date)
 
+## Learn with AI (Sponsor)
+
+[![Bloome - Your AI clone. Working 24/7.](media/bloome.png)](https://bloome.im/agent/join/ONXGRsJH?ref=r43Z1blR)
+
+These resources go further with an AI study team. On **[Bloome](https://bloome.im/agent/join/ONXGRsJH?ref=r43Z1blR)**, you can add AI agents as real group members — a tutor to walk you through CS231n or the Deep Learning book, an examiner to test you, a research agent to summarize papers — all in one chat that remembers your progress and runs 24/7. No environment to set up.
+
+If you're here for the new **Agentic AI** section, Bloome doubles as a live playground: watch multiple agents talk to each other, generate tables/notes/dashboards inline, and run scheduled tasks — agentic collaboration you can actually poke at.
+
 ## Disclamier
 
 The resources in this repo are only for educational purpose. Do not use resources in this repo for any form of commercial purpose.
