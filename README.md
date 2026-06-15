@@ -1,6 +1,8 @@
 # Machine Learning Road
 Machine Learning and Agentic AI Resources, Practice and Research.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=yanshengjia/ml-road&type=Date)](https://star-history.com/#yanshengjia/ml-road&Date)
+
 ## Disclamier
 
 The resources in this repo are only for educational purpose. Do not use resources in this repo for any form of commercial purpose.
@@ -80,3 +82,4 @@ If the author of ebook found your intelligence proprietary violated because of c
 | Build your first Agentic AI app step-by-step with Strands Agents & MCP | Course                     | AWS                                                          | [[YouTube]](https://www.youtube.com/watch?v=aijS9fWB854) | Agentic AI Applications               |
 | Building Effective AI Agents                                | Blog                       | Anthropic                                       | [[Anthropic]](https://www.anthropic.com/research/building-effective-agents) | Agent Design, Best Practices         |
 | How We Built Our Multi-Agent Research System                | Blog                       | Anthropic                                    | [[Anthropic]](https://www.anthropic.com/engineering/built-multi-agent-research-system) | Multi-Agent Systems, Architecture     |
+
