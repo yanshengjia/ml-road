@@ -1,7 +1,13 @@
 # Machine Learning Road
 Machine Learning and Agentic AI Resources, Practice and Research.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yanshengjia/ml-road&type=Date)](https://star-history.com/#yanshengjia/ml-road&Date)
+<a href="https://www.star-history.com/?repos=yanshengjia%2Fml-road&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=yanshengjia/ml-road&type=date&theme=dark&legend=top-left&sealed_token=vzHqw4Grtp_ErTwd6dQfY5xNObjQ5tfAfCA5i7i-Y3HL8JoPhTWLFciwWsIxzpU7GGQqX_kzQ7QVcDaX1d-4PGyGeSpryogXaDftMl9l9y_U8PXBendKelgplSKt0oj2uaY4VuMoYd9BM-aPUaD-ahiWOLuG1Jo7pO8htDgSREAbVkGbLMMmgfhXT5g1" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=yanshengjia/ml-road&type=date&legend=top-left&sealed_token=vzHqw4Grtp_ErTwd6dQfY5xNObjQ5tfAfCA5i7i-Y3HL8JoPhTWLFciwWsIxzpU7GGQqX_kzQ7QVcDaX1d-4PGyGeSpryogXaDftMl9l9y_U8PXBendKelgplSKt0oj2uaY4VuMoYd9BM-aPUaD-ahiWOLuG1Jo7pO8htDgSREAbVkGbLMMmgfhXT5g1" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=yanshengjia/ml-road&type=date&legend=top-left&sealed_token=vzHqw4Grtp_ErTwd6dQfY5xNObjQ5tfAfCA5i7i-Y3HL8JoPhTWLFciwWsIxzpU7GGQqX_kzQ7QVcDaX1d-4PGyGeSpryogXaDftMl9l9y_U8PXBendKelgplSKt0oj2uaY4VuMoYd9BM-aPUaD-ahiWOLuG1Jo7pO8htDgSREAbVkGbLMMmgfhXT5g1" />
+ </picture>
+</a>
 
 ## Learn with AI (Sponsor)
 
